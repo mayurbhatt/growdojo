@@ -4,7 +4,7 @@ excerpt: "If you're scaling an eCommerce business and trying to figure out which
 coverImage: "/assets/blog/killer-reasons-to-choose-shopify-plus-development-services/cover.jpeg"
 date: "2025-04-10T03:00:07.322Z"
 author:
-  name: Tim Neutkens
+  name: Grow Dojo
   picture: "/assets/blog/authors/GrowDojo.png"
 ogImage:
   url: "/assets/blog/killer-reasons-to-choose-shopify-plus-development-services/cover.jpeg"
